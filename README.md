@@ -15,10 +15,10 @@
 
 ###  :sunrise: experience
 - 2023.01 ~ 2023.12   삼성 청년 SW 아카데미 서울 9기 수료
-- 2018.02 ~ 2023.02   이화여자대학교 심리학과 졸업
+- 2018.02 ~ 2023.02   이화여자대학교 심리학과 학사 졸업
 
 ###  :milky_way: project
-SSAFY 프로젝트 github | <a href="https://github.com/PaengJiwoo" target="_blank">@PaengJiwoo</a>
+삼성 청년 SW 아카데미 프로젝트 github | <a href="https://github.com/PaengJiwoo" target="_blank">@PaengJiwoo</a>
 - 2023.10 ~ 2023.11   위치 기반 모바일 소셜 앱 서비스 POPPAR
 - 2023.08 ~ 2023.10   주식 뉴스 & 투자 복기 서비스 NEWSTOCKS
 - 2023.07 ~ 2023.08   SSAFY 교육생 전용 커뮤니티 unofficial <br>
