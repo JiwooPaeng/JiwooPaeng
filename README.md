@@ -29,7 +29,7 @@
 
 
 ### 📫 contact
-<a href="mailto" target="_blank"><img src="https://img.shields.io/badge/paengzw@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:paengzw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/paengzw@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **JiwooPaeng/JiwooPaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
