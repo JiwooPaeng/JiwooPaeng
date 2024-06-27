@@ -1,6 +1,6 @@
 🌊 FE Developer Paeng 🌊
 <br><br>
-<a href="https://teal-ticket-b0c.notion.site/FE-724a72ee054f488a9164237e37158003?pvs=4" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://www.notion.so/paengzw/FE-724a72ee054f488a9164237e37158003" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ###  :sailboat: skill
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
